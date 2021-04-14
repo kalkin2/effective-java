@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * 42.익명 클래스 보다는 람다를 사용하라.
+ */
 public class Case1 {
 
     public static void main(String[] args) {
